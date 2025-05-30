@@ -41,6 +41,12 @@ This internship focuses on the practical and theoretical foundations of **Statis
 
 ---
 
+## Reading Resources
+- [An Introduction to Statistical Learning](https://www.statlearning.com/?utm_source=chatgpt.com)
+- [Probabilistic Machine Learning](https://probml.github.io/pml-book/?utm_source=chatgpt.com)
+
+---
+
 ##  Environment Setup
 
 This project uses a custom Conda environment. To set it up locally:

@@ -21,6 +21,12 @@ This internship focuses on the practical and theoretical foundations of **Statis
 
 ---
 
+## Reading Resources
+- [An Introduction to Statistical Learning](https://www.statlearning.com/?utm_source=chatgpt.com)
+- [Probabilistic Machine Learning](https://probml.github.io/pml-book/?utm_source=chatgpt.com)
+
+---
+
 ## Tasks Completed
 
 ###  Week 1: Boston Housing Dataset
@@ -41,11 +47,6 @@ This internship focuses on the practical and theoretical foundations of **Statis
 
 ---
 
-## Reading Resources
-- [An Introduction to Statistical Learning](https://www.statlearning.com/?utm_source=chatgpt.com)
-- [Probabilistic Machine Learning](https://probml.github.io/pml-book/?utm_source=chatgpt.com)
-
----
 
 ##  Environment Setup
 

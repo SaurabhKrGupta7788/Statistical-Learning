@@ -72,14 +72,15 @@ This internship focuses on the practical and theoretical foundations of **Statis
 
 ### Week 5: Capstone Kick-Off
 
+* All model comparision on one dataset
 * Cleaned raw data using **custom data-cleaning module**
 * Created structured pipeline for preprocessing and validation
 * Designed evaluation notebooks comparing models based on performance
 * Assigned capstone project roles and created a Kanban-based tracking plan
-  Notebooks:
-* `Saurabh_Kr_Gupta_DataCleaning_W5_2.ipynb`
+  Notebooks
 * `Saurabh_Kr_Gupta_model_comparision_W5.ipynb`
-
+* `Saurabh_Kr_Gupta_DataCleaning_W5_2.ipynb`
+* 
 ---
 
 

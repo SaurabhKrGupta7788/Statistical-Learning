@@ -47,6 +47,41 @@ This internship focuses on the practical and theoretical foundations of **Statis
 
 ---
 
+### Week 3: Model Selection & Regularization
+
+* Built and evaluated **Ridge** and **Lasso** regression models
+* Used **Elastic Net** concepts for balancing L1 and L2 penalties
+* Explored **feature importance** under different regularization strategies
+* Explained regularization effects using **Bias-Variance Tradeoff** theory
+* Performed **cross-validation and grid search** for tuning lambda/alpha
+  Notebook: `Linear_Model_Selection_Regulation_W3.pdf`
+  Code: `Saurabh_Kr_Gupta_Ridge&Lasso_week3_2.ipynb`
+
+---
+
+### Week 4: Ensemble Methods & Non-linear Models
+
+* Compared performance of **Random Forest** and **XGBoost** on classification task
+* Visualized feature importance and decision boundaries
+* Analyzed bias-variance and interpretability tradeoffs between tree-based models
+* Summarized findings in a PDF comparing both methods
+  Notebook: `Saurabh_Kr_Gupta_RndmForest_vs_Boosting_W4.ipynb`
+  Summary: `Randomforest_VS_Boosting_summary.pdf`
+
+---
+
+### Week 5: Capstone Kick-Off
+
+* Cleaned raw data using **custom data-cleaning module**
+* Created structured pipeline for preprocessing and validation
+* Designed evaluation notebooks comparing models based on performance
+* Assigned capstone project roles and created a Kanban-based tracking plan
+  Notebooks:
+* `Saurabh_Kr_Gupta_DataCleaning_W5_2.ipynb`
+* `Saurabh_Kr_Gupta_model_comparision_W5.ipynb`
+
+---
+
 
 ##  Environment Setup
 
